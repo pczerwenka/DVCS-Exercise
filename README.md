@@ -12,3 +12,20 @@ Paul Czerwenka
 6. A
 
 ## Short Answer and Multiple Choice
+
+1. Repository
+2. File
+3. Repository
+4. 
+ - Changes
+ - History
+ - Repository List
+ - Branches List
+5. 
+ - Remote
+ - Ignore Files
+6. 3
+7. 1
+8. 1
+9. 2
+10. 
